@@ -1,6 +1,6 @@
-# Construct 
+# Nutri Lab 
 
-Sistema de Gerenciamento de Construção
+Sistema de Gerenciamento e Gestão de Nutricionista - Semana Pystackweek - 4ªed.  
 
 ## Como desenvolver?
 1. Clone o repositório
@@ -10,8 +10,8 @@ Sistema de Gerenciamento de Construção
 5. Execute os testes
 
 ```console
-git clone https://github.com/GregMasterBr/Construct.git Construct
-cd Construct
+git clone https://github.com/GregMasterBr/Nutri-Lab--Pystackweek---4.git nutri_lab
+cd nutri_lab
 python -m venv venv
 venv/Scripts/Activate.ps1
 pip install -r requirements.txt ou pip install -r requirements-dev.txt
